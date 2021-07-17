@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey there!
 
-<!--
-**repyh/repyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Welcome to my README page ig...
+### Here's a little bit about myself
+---
+- 📖 I'm still in high-school, currently a 10th grader (Indonesia).
+- 🏹 ~~Not~~ a weeb.
+- ♂️ Am a male.
+- 💬 Early Verified Discord Developer
 
-Here are some ideas to get you started:
+### Languages that I know...
+- Javascript
+- Lua
+- Java
+- C#
+- C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Favorite Languages ❗
+- Javascript
+- Lua
+- Java
+
+## Social Media
+Well, my instagram is private, but you can talk to me through discord; Repyh#4674.
