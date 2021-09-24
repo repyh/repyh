@@ -1,6 +1,5 @@
 # Hey there!
 
-## Welcome to my README page ig...
 ### Here's a little bit about myself
 ---
 - 📖 I'm still in high-school, currently in 10th grade (Indonesia).
