@@ -1,8 +1,6 @@
 # Hey there!
 
-### Here's a little bit about myself
----
-- 📖 I'm still in high-school, currently in 10th grade (Indonesia).
+- 📖 Still in high-school, currently in 10th grade (Indonesia).
 - 🏹 ~~Not~~ a weeb.
 - ♂️ Am a male.
 - 💬 Early Verified Discord Developer
