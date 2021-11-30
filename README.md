@@ -5,7 +5,8 @@
 - ♂️ Am a male.
 - 💬 Early Verified Discord Developer
 
-<img src="https://github-readme-stats.vercel.app/api?username=repyh&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![Github Stats](https://github-readme-stats.vercel.app/api?username=repyh&theme=radical)<br />
+![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=repyh&theme=radical)
 
 ## Social Media
 Well, my instagram is private, but you can talk to me through discord; Repyh#4674.
