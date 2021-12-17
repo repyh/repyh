@@ -1,5 +1,5 @@
 <h1>Hey 👋 I'm Repyh</h1>
-<h3>A passionate frontend developer from Indonesia</h3>
+<h3>A passionate fullstack developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Rust, Remix.js**
 
