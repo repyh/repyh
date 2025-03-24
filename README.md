@@ -1,7 +1,7 @@
 <h1>Hey 👋 I'm Repyh</h1>
 <h3>A passionate fullstack developer from Indonesia</h3>
 
-- ⚡ You can find all my projects at [https://repyh.vercel.app/](https://repyh.vercel.app/)
+- ⚡ My personal portfolio [https://www.repyh.com](https://repyh.com/)
 
 - 📫 Contact me through **repyh2006@gmail.com**
 
