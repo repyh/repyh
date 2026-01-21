@@ -32,7 +32,7 @@
   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=repyh&show_icons=true&line_height=27&count_private=true&theme=dracula&hide_border=true&bg_color=0d1117" alt="repyh's github stats" />
   </a>
   <a href="https://github.com/repyh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=repyh&hide=html&theme=dracula&hide_border=true&layout=compact&bg_color=0d1117" alt="repyh's top languages" />
+  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=repyh&hide=html&theme=dracula&hide_border=true&layout=compact&bg_color=0d1117" alt="repyh's top languages" />
   </a>
 </div>
 
